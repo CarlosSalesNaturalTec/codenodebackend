@@ -17,5 +17,8 @@ $ npm init
 $ npm install
 	* instala estrutura necessária para o NODE (baixe os módulos e registre-os no arquivo package.json
 
+$ npm install express
+	* Instala o express
+
 
 
