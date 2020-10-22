@@ -20,5 +20,5 @@ $ npm install
 $ npm install express
 	* Instala o express
 
-
-
+$ npm install body-parser
+	* leitura do body . parse JSON
